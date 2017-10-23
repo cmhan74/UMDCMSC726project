@@ -1,2 +1,2 @@
 # UMDCMSC726project
-Warped Recurrent Autoencoder
+An implementation of Algorithm of Warped Recurrent Autoencoder
